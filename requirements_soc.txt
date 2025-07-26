@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-community
+dotenv
+typing
+chromadb
+langchain-chroma
+langchain-groq
+pypdf
+sentence_transformers
+tf-keras
