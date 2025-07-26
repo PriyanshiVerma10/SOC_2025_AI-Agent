@@ -9,8 +9,11 @@ Prompt given to the agent -
 You are allowed to make multiple calls.'''
 
 API Key - Groq
+
 Model - llama-3.3-70b-versatile
+
 Embeddings - HuggingFaceBgeEmbeddings
+
 Embeddings model - BAAI/bge-small-en-v1.5
 
 Overview of Steps -
